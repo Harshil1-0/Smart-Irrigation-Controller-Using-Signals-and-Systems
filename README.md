@@ -1,0 +1,2 @@
+# Smart-Irrigation-Controller-Using-Signals-and-Systems
+A discrete-time controller for smart irrigation, designed and analysed with core Signals and Systems tools: difference equations, convolution, the Z-transform, pole-zero analysis and frequency response. Soil moisture and temperature are modelled as sampled signals and fed into a first-order IIR system that produces a smooth irrigation command.
